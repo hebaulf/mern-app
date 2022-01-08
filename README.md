@@ -5,6 +5,11 @@ It is connected to this [database](https://github.com/hebaulf/mern-database).
 
 <br>
 
+I added some fields and queries to the "devices" collection in the database and displayed them in the app.\
+I also added some styles to make it a little nicer to view.
+
+<br>
+
 Remember to run the database and the app at the same time on seperate terminal tabs.
 
 <br>
