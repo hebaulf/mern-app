@@ -1,7 +1,13 @@
 # MERN App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-It is connected to this [database](https://github.com/hebaulf/mern-database).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+It is connected to this [database](https://github.com/hebaulf/mern-database).\
+  
+Remember to run the database and the app at the same time on seperate terminal tabs.
+
+<br>
+
+![screenshot](https://raw.githubusercontent.com/hebaulf/mern-app/main/public/img/screenshot.png)
 
 <br>
 
